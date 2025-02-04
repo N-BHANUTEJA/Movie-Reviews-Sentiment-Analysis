@@ -4,8 +4,6 @@
 In this project, we built a sentiment analysis model to classify movie reviews as positive or negative using machine learning 🤖. 
 The model is trained on a dataset of movie reviews, processes the text data, and provides insights into the sentiment of the reviews.
 
----
-
 ## 🔄 Workflow
 
 1. **Dataset Loading 📂**  
